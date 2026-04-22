@@ -51,7 +51,7 @@ L1 regularization penalizes non-zero values linearly, pushing many gate values t
 |--------|-------------|-------------|
 | 1e-5   | 44.47       | 1.10        |
 | 1e-4   | 47.75       | 45.60       |
-| 1e-3   | 43.37       | 94.15       |
+| 1e-3   | 44.28       | 98.10      |
 
 ---
 
